@@ -8,6 +8,7 @@ Project 2 = "Kolawole, O. (2022). Mechanistic study of microbial altered propert
 
 Project 3 = "Ngoma, M. C., & Kolawole, O. (2024). Porosity and bedding controls on bio-induced carbonate precipitation and mechanical properties of shale and dolomitic rocks: EICP vs MICP. Biogeotechnics, 2(4), 100102. https://doi.org/10.1016/j.bgtech.2024.100102".
 
+Project 4 = "Ngoma, M. C., & Kolawole, O. Role of Biopolymer and Ureolytic-Induced Cementation in Micro-Macro Alteration of Rock Hydraulic Properties. Under Peer-Review at Discover Civil Engineering journal".
 
 # Repository and Data Author:
 Dr. Oladoyin Kolawole
